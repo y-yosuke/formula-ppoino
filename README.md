@@ -1,6 +1,6 @@
 # formula-ppoino
 - 2000年代前半ぐらいのフォーミュラカーっぽい2人乗りのクルマ
-- A two-seater car of the early 2000s formula style
+- A side-by-side two-seater car of the early 2000s formula style
 
 # License
 - クリエイティブ・コモンズ 2.1（表示—継承 / BY-SA ）で公開・共有しています．[Creative Commons 2.1 (BY-SA)](http://creativecommons.org/licenses/by-sa/2.1/jp/)
